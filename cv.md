@@ -31,7 +31,7 @@ Wish luck to everyone.
 - Adobe Photoshop
 
 
-## Code Example
+# Code Example
 
 
 ```
@@ -50,3 +50,23 @@ function scrollingText(word) {
   return result;
 }
 ```
+## Education
+
+
+- Master degree in National Technical University «Kharkiv Polytechnic Institute»
+- Electromechanical automation systems and electric drive
+- Udemy course
+    + WEB - developer 2022
+
+## Experience
+
+- Own online store in 2013-2015.
+- CAD/CAM systems and CNC programming
+
+
+## Languages
+
+- Ukranian Native
+- Russian Advanced
+- English [EF Standart English Test Certificate](https://www.efset.org/cert/YbaKfn) : Proficient(C2)
+- German A1
