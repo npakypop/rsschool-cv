@@ -19,3 +19,34 @@ At least i have a desire to become a Front End Developer and i will do everythin
 
 
 Wish luck to everyone.
+
+
+## Skills
+
+
+- HTML (elementary)
+- CSS (SASS, Bootstrap, CSS Flexbox)
+- JavaScript (Basics)
+- SQL (Basics)
+- Adobe Photoshop
+
+
+## Code Example
+
+
+```
+function scrollingText(word) {
+
+  let arr = word.toUpperCase();
+  console.log(arr);
+  let result =[];
+    for ( let i = 0; i < arr.length; i += 1){
+      let temp = arr.slice(0,i);
+      let temp2 = arr.slice(i,word.length);
+      result.push(temp2 + temp);
+      
+      console.log(result);
+  }
+  return result;
+}
+```
