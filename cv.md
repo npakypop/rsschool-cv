@@ -31,7 +31,7 @@ Wish luck to everyone.
 - Adobe Photoshop
 
 
-# Code Example
+## Code Example
 
 
 ```
@@ -50,11 +50,12 @@ function scrollingText(word) {
   return result;
 }
 ```
+
 ## Education
 
 
 - Master degree in National Technical University «Kharkiv Polytechnic Institute»
-- Electromechanical automation systems and electric drive
+    + Electromechanical automation systems and electric drive
 - Udemy course
     + WEB - developer 2022
 
