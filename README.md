@@ -1,1 +1,1 @@
-https://npakypop.github.io/rsschool-cv/cv
+https://npakypop.github.io/rsschool-cv/
